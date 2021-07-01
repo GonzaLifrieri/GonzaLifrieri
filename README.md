@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Lifieri</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **multiple frontend and backend project using React and Nodejs**
+- 🔭 I’m currently working on **multiple frontend projects using React**
 
 - 🌱 I’m currently learning **React in depth**
 
