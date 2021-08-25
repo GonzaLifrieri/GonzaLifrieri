@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **multiple frontend projects using React**
 
-- 🌱 I’m currently learning **React in depth**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **gonza.lifrieri@gmail.com**
 
